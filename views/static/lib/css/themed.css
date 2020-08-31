@@ -1,0 +1,19 @@
+.body {
+  background-color: #fff !important;
+}
+
+.bg-dark {
+  background-color: #000 !important;
+}
+
+.jumbotron > h1 {
+  font-weight: 700;
+}
+
+.jumbotron {
+  background-color: rgba(255, 0, 0,0.04);
+}
+
+.navbar-brand > img {
+  height: 20px;
+}
